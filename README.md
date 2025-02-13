@@ -20,6 +20,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Hipster Logo Generator**](https://www.hipsterlogogenerator.com/): It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
 - [**Squarespace Free Logo**](https://www.squarespace.com/logo/): You can download free low-res version for free.
 - [**Signature Maker**](https://signature-maker.net/): A free web based tool that creates your handwritten digital signature.
+- [**Branition**](https://branition.com): Unused logos marketplace, brand designers for hire and free branding tools.
 
 # Invoice
 - [**Invoice to me**](https://invoiceto.me/): Free Invoice Generator.
@@ -35,11 +36,12 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Shake**](https://www.shakelaw.com/): Create, sign and send legally binding agreements in seconds. Free for personal use.
 
 # Idea Management
+- [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
-- [**Germ.io**](https://www.germ.io/): Get from idea to execution.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
 # Business / Project Name Generator
+- [**The Business Niches Generator**](https://www.nichegenerator.xyz/): Generate business niches rather than business ideas.
 - [**The Name App**](https://thenameapp.com/): Find an available name for your brilliant idea.
 - [**Naminum**](https://www.naminum.com/): Discover a perfect company name.
 - [**Short Domain Search**](https://shortdomainsearch.com/): Find short, available single-word domain names.
@@ -111,16 +113,17 @@ If you have another additional awesome free resource, please feel free to add it
 - [**XML Sitemaps**](https://www.xml-sitemaps.com/): Sitemap generator that creates XML & HTML variants.
 - [**Shopify E-commerce Report**](https://ecommerce.shopify.com/grader): Get your free Ecommerce report.
 - [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
+- [**DebugBear Speed Test**](https://www.debugbear.com/test/website-speed): Test site speed and Core Web Vitals
 
 # Image Optimizers
+- [**Image Host Company**](https://www.imagehostcompany.com/): Host images on your Google Drive.
 - [**TinyJPG**](https://tinyjpg.com/): | [**TinyPNG**](https://tinypng.com/):  Compress images.
 - [**Compressor.io**](https://compressor.io/): Optimize and compress your images online.
 - [**Kraken**](https://kraken.io/web-interface): Optimize your images & accelerate your websites.
 - [**ImageOptimizer**](https://www.imageoptimizer.net/Pages/Home.aspx): Resize, compress and optimize your image files.
 - [**ImageOptim**](https://imageoptim.com/): Makes images take up less disk space & load faster.
 - [**Smush.it**](https://wordpress.org/plugins/wp-smushit/): Image optimizer WordPress plugin.
-- Dunnnk: Beautiful mockups.
-- InstaMockup: Create beautiful screenshots of your app or website.
+- [**Optimizeimages**](https://www.optimizeimages.com): Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 
 # Image Editors
 - [**Canva**](https://www.canva.com/): Amazingly simple graphic design for bloggers.
@@ -196,8 +199,10 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Optimizely**](https://www.optimizely.com/): One optimization platform for websites and mobile apps.
 - [**Hello Bar**](https://write%20better%20content%20and%20have%20a%20fully%20optimized%20wordpress%20site/): Tool for A/B testing different CTAs & power words.
 - [**GrowthHackers**](https://growthhackers.com/): Unlocking growth. Together.
+- [**Cello**](https://cello.so/): User-led growth platform for B2B SaaS.
 
 # Design Resources
+- [**Sinwaver**](https://www.sinwaver.com/): Export perfect SVG sine waves.
 - [**Freebbble**](https://freebbble.com/): High-quality design freebies from Dribbble.
 - [**Dribbble**](https://dribbble.com/search?q=freebie): Dribbble search results for “freebie”. An absolute freebie treasure.
 - [**Graphic Burger**](https://graphicburger.com/): Tasty design resources made with care for each pixel.
@@ -344,6 +349,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Apply Pixels**](https://applypixels.com/): Supercharge your design workflow with up-to-date UI Kits, Icon Templates and much more.
 - [**Icons8s**]: Free icons, photos, vectors, music, and tools.
 - [**Streamline Icons**](https://www.streamlineicons.com): Welcome to Streamline. The world's largest icon pack.
+- [**3dicons**](https://www.3dicons.com/): A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views
+- [**iconshock**](https://www.iconshock.com/): 2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :)
 
 # Useful Tools
 - [**UI Names**](https://uinames.com/): Generate random names for use in designs and mockups.
@@ -351,33 +358,29 @@ If you have another additional awesome free resource, please feel free to add it
 - [**UI Blurbs**](https://uiblurbs.com/): Quick user bios for your mockups.
 - [**Copy Paste Character**](https://copypastecharacter.com/): Click to copy.
 - [**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en): See how it looks on various screen resolutions.
+- [**Tshirt designs**](https://www.tshirtdesigns.com/mockups): You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business.
 
 # Developer & Code Related
 - [Abstract APIs](https://www.abstractapi.com/): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more)
 - [Sentry](https://sentry.io/welcome/): Open-source error tracking & monitoring 
-- Hive: First free unlimited cloud service in the world.
-- GitHub: Build software better, together.
-- BitBucket: Git and Mercurial code management for teams.
-- Chisel: Chisel offers an unlimited number of fossil repositories.
-- Visual Studio: Comprehensive collection of developer tools and services.
-- Landscape: Landscape is an early warning system for your Python codebase.
-- Swiftype: Add great search to any website. Free with limitations.
-- Keen.io: Gather all the data you want & start getting the answers you need.
-- Coveralls: Test coverage history and statistics.
-- LingoHub: Free for Small Teams, Open Source usage and Educational projects.
-- Codacy: Continuous Static Analysis designed to complement your unit tests.
-- Searchcode: Search over 20 billion lines of code.
-- TinyCert: Free SSL certificates for your startup.
-- StartSSL: Free SSL certificates.
-- Opbeat: The first ops platform for developers. Free for small teams.
-- Pingdom: Website monitoring. Free for one website.
-- Rollbar: Full-stack error monitoring for all apps in any language.
-- Loggly: Simplify Log Management Forever. Free for one user.
-- Devport: Get your developer portfolio.
-- Getting Real: The smarter way to build web apps. A free book by 37signals.
-- Peek: Get a free, 5-minute video of someone using your site.Creator: Build better Ionic apps, faster.
-- DevFreeCasts: A huge collection of free screencasts for developers.
-- Cody: A free library of HTML, CSS, JS nuggets.
+- [Argonaut](https://argonaut.dev/): Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.
+- [GitHub](http://github.com/): Build software better, together.
+- [BitBucket](https://bitbucket.org/product): Git and Mercurial code management for teams.
+- [Chisel](https://www.chisel-lang.org/): Chisel offers an unlimited number of fossil repositories.
+- [Visual Studio](https://visualstudio.microsoft.com/): Comprehensive collection of developer tools and services.
+- [Swiftype](https://swiftype.com/): Add great search to any website. Free with limitations.
+- [Keen.io](https://keen.io/): Gather all the data you want & start getting the answers you need.
+- [Coveralls](https://coveralls.io/): Test coverage history and statistics.
+- [LingoHub](https://lingohub.com/): Free for Small Teams, Open Source usage and Educational projects.
+- [Codacy](https://www.codacy.com/): Continuous Static Analysis designed to complement your unit tests.
+- [Searchcode](https://searchcode.com/): Search over 20 billion lines of code.
+- [TinyCert](https://www.tinycert.org/): Free SSL certificates for your startup.
+- [Opbeat](https://github.com/opbeat): The first ops platform for developers. Free for small teams.
+- [Pingdom](https://tools.pingdom.com/): Website monitoring. Free for one website.
+- [Rollbar](https://rollbar.com/): Full-stack error monitoring for all apps in any language.
+- [Loggly](https://www.loggly.com/): Simplify Log Management Forever. Free for one user.
+- [Getting Real](https://basecamp.com/books/getting-real): The smarter way to build web apps. A free book by 37signals.
+- [Cody](https://codyhouse.co/): A free library of HTML, CSS, JS nuggets.
 
 # Background Sounds to Focus
 - [**Noisli**](https://www.noisli.com/): Background noise & color generator.
@@ -389,6 +392,7 @@ If you have another additional awesome free resource, please feel free to add it
 - Free Sound: Huge database of free audio snippets, samples, + recordings.
 - [**Sonics**](https://www.sonics.io/): Free packs of UI sounds and sound effects delivered to your inbox every month.
 - Deep Focus: Spotify’s famous playlist to focus.
+- [**The Ultimate Background Noise Generator**](https://mynoise.net/NoiseMachines/cafeRestaurantNoiseGenerator.php): Free BG sounds from a coffee shop to music to tones designed to help you focus.
 
 # Avoid Distraction
 - [**Self Control**](https://selfcontrolapp.com/): Mac: free application to help you avoid distracting websites.
@@ -405,18 +409,15 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Mailtoself**](https://www.mailtoself.com/): An iOS extension to mail notes to yourself from any app.
 - [**List.ly**](https://list.ly/): Discover and create great lists.
 - [**Markticle**](https://markticle.com/): Mark your reading progress in articles for later.
-- Raindrop: Mac app for bookmarking and reading it later.
-- Flowdock: Free for teams of five and non-profits.
-- Typetalk: Share and discuss ideas with your team through instant messaging.
-- Slack: Free for unlimited users with few limited features.
-- Google Hangouts: Bring conversations to life with photos, emoji and group video calls.
-- Voveet: Simple, free 3D conference calls. Experience the difference.
-- FreeBusy: Eliminate coordination headaches when you need to schedule a meeting.
-- RealTimeBoard: Your regular whiteboard, re-thought for the best online experience.
-- Witkit: Witkit is the secure platform for teams. 50GB of free encrypted data storage.
-- Any.do: Get things done with your team.
-- Asana: Teamwork without email.
-- GoToMeeting: Online meetings without the hassle.
+- [Raindrop](https://raindrop.io/): Mac app for bookmarking and reading it later.
+- [Flowdock](https://www.flowdock.com/): Free for teams of five and non-profits.
+- [Typetalk](https://www.typetalk.com/): Share and discuss ideas with your team through instant messaging.
+- [Slack](https://slack.com/): Free for unlimited users with few limited features.
+- [FreeBusy](https://freebusy.io/en): Eliminate coordination headaches when you need to schedule a meeting.
+- [Miro](https://miro.com/): Your regular whiteboard, re-thought for the best online experience.
+- [Any.do](https://www.any.do/): Get things done with your team.
+- [Asana](https://asana.com/): Teamwork without email.
+- [GoToMeeting](https://www.goto.com/): Online meetings without the hassle.
 
 # Digital Nomads and Remote Working
 - [**Founded X Startup Stats**](https://www.foundedx.com/stats): Find the best country to build your startup in.
@@ -427,6 +428,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Where Nomads at**](https://where-my-nomads.at/): Find digital nomads & travelers all around the world.
 - [**Nomad Jobs**](https://nomadjobs.com/): The best remote jobs at the best startups.
 - [**What’s It Like**](https://www.whatsitlikeapp.com/): Helping travelers figure out WHEN to go.
+- [**arbeitnow**](https://arbeitnow.com): Remote jobs board
 
 # Discover Tools & Startups
 - [**Product Hunt**](https://www.producthunt.com/): Curation of the best new products, every day.
